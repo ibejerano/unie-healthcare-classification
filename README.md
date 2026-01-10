@@ -8,11 +8,12 @@
 ```bash
 .
 ├── datasets/
-│ └── diabetes_012_health_indicators_BRFSS2015.csv # CC BY 4.0 License (dataset)
-├── src/ 
-│ └── diabetes_multiclass_classifier.ipynb # Complete executable pipeline
+│ ├── CCBY4.0.txt                                   # CC BY 4.0 License (dataset)
+│ └── diabetes_012_health_indicators_BRFSS2015.csv  
+├── src/    
+│ └── diabetes_multiclass_classifier.ipynb          # Complete executable pipeline
 ├── requirements.txt
-├── LICENSE # MIT License (code)
+├── LICENSE                                         # MIT License (code)
 └── README.md
 ```
 
